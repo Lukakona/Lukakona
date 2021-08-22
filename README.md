@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lukakona
-- 👀 I’m interested in Java and C# programming
-- 🌱 I’m currently learning Java
+- 👋 Hello, I'm Lukakona (Marissa Kona)
+- 👀 I have experience in Java, C++, C#, and SQL.
+- 🌱 Currently practicing HTML, Javascript, and CSS.
 - 📫 konamarissa20@gmail.com
 
 <!---
